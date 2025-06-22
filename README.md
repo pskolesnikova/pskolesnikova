@@ -12,7 +12,9 @@
     - 📍 Moscow, Russia | ✉️ Email: ps.kolesnikova@gmail.com
   </p>
   
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" width="500">
+    <div style="width: 100%; overflow: hidden;">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" style="width: 100%; height: auto;">
+  </div>
   
   <h3 align="left">🔧 Skills:</h3>
 </div>
