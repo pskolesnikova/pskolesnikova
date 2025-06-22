@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="600">
+  <img src="https://i.pinimg.com/originals/47/53/d7/4753d776ae8b2e1bd3ba05289ad27f8b.gif" width="600">
   <br><br>
   
   <h1>👋 Hello world,<br>I'm Kolesnikova Polina</h1>
